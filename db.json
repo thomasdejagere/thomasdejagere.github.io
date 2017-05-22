@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "thomas",
+      "password": "test",
+      "firstname": "Thomas",
+      "lastname": "Dejagere",
+      "seenSeries": [
+        5,
+        2,
+        3
+      ],
+      "bookmarkedSeries": [
+        6,
+        3,
+        0,
+        1
+      ]
+    },
+    {
+      "firstName": "testUser1",
+      "lastName": "testUser1",
+      "email": "testuser@hotmail.com",
+      "password": "testuser",
+      "username": "testuser@hotmail.com",
+      "id": 2,
+      "bookmarkedSeries": [
+        0
+      ],
+      "seenSeries": [
+        1
+      ]
+    },
+    {
+      "firstName": "testuser2",
+      "lastName": "testuser2",
+      "email": "testuser2@hotmail.com",
+      "password": "Testuser2!",
+      "username": "testuser2@hotmail.com",
+      "id": 3,
+      "bookmarkedSeries": [
+        1,
+        0
+      ],
+      "seenSeries": [
+        1
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": 0,
+      "title": "Prison Break",
+      "desc": "Prison Break description"
+    },
+    {
+      "id": 1,
+      "title": "The Big Bang Theory",
+      "desc": "Description about The Big Bang Theory"
+    },
+    {
+      "id": 2,
+      "title": "House of Cards",
+      "desc": "Description about house of cards."
+    },
+    {
+      "id": 3,
+      "title": "Breaking Bad",
+      "desc": "Description about Breaking Bad."
+    },
+    {
+      "id": 4,
+      "title": "Six",
+      "desc": "Description about Six."
+    },
+    {
+      "id": 5,
+      "title": "Suits",
+      "desc": "Suits follows college drop-out Mike Ross, who accidentally lands a job with one of New York's best legal closers, Harvey Specter. They soon become a winning team with Mike's raw talent and photographic memory, and Mike soon reminds Harvey of why he went into the field of law in the first place."
+    },
+    {
+      "id": 6,
+      "title": "Shooter",
+      "desc": "Shooter is USA Network's new conspiracy thriller based on the best-selling novel 'Point of Impact' by Stephen Hunter, and the 2007 Paramount film starring Mark Wahlberg. Starring Ryan Phillippe, the series follows the journey of Bob Lee Swagger, a highly-decorated veteran who is coaxed back into action to prevent a plot to kill the President. When Swagger's former commanding officer Isaac Johnson solicits his expertise in a clandestine operation, Swagger discovers that he has been framed and must do everything in his power to protect his family and clear his name."
+    },
+    {
+      "id": 7,
+      "title": "Designated Survivor",
+      "desc": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession."
+    },
+    {
+      "id": 8,
+      "title": "Mr. Robot",
+      "desc": "Mr. Robot follows Elliot, a young programmer who works as a cyber-security engineer by day and a vigilante hacker by night. Elliot finds himself at a crossroad when the mysterious leader of an underground hacker group recruits him to destroy the corporation he is paid to protect."
+    },
+    {
+      "id": 9,
+      "title": "Lethal Weapon",
+      "desc": "Grief-stricken ex-Navy SEAL-turned-detective Martin Riggs moves to California to “start over” at the LAPD. He’s paired up with Roger Murtaugh, who’s just coming back to the job after a near-fatal heart attack. Riggs’ penchant for diving headfirst into the line of fire immediately clashes with Murtaugh’s prudent, by-the-book technique.By the time their first investigation ends, Riggs realizes he may have found something worth living for – a partner and friend, Murtaugh. And even Murtaugh figures this arrangement might just work out after all. If only Riggs doesn’t get them killed first…"
+    },
+    {
+      "id": 10,
+      "title": "Vikings",
+      "desc": "Vikings follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods, legend has it that he was a direct descendant of Odin, the god of war and warriors."
+    }
+  ]
+}

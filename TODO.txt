@@ -1,0 +1,3 @@
+TODO
+	- Bij lijst als je op de seen/bookmark button klikt verlies je de filtering
+	- Als je op de seen/bookmark button klikt ga je naar de detail page

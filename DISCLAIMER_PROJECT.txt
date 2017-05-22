@@ -1,0 +1,1 @@
+REST API is niet veilig!!! (login gegevens via url, password wordt als cleartext opgeslagen, enz...)
